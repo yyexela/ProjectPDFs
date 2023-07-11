@@ -13,3 +13,9 @@ This repository contains final project PDFs for various courses I took at CU Bou
 
 ### APPM 4450: Undergraduate Numerical Analysis II
 - As a team of two, we derived the Gamma function and proved various interesting properties that it has.  
+
+### APPM 4600: Numerical Methods and Scientific Computing
+- As a team of three, we derived Ridge Regression and the Tikhonov Estimator. We then empirically studied Least Squared, Ridge Regression, Tikhonov Regression, LASSO, and Elastic-Net.
+
+### Undergraduation Senior Thesis
+- Under Dr. Stephen Becker, I learned about the theory of first-order Bayesian Optimization (FOBO) and contributed to the open-source Bayesian Optimization library BoTorch so that FOBO is available to all researchers.
