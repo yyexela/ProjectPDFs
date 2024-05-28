@@ -1,6 +1,8 @@
 # ProjectPDFs
 
-This repository contains final project PDFs for various courses I took at CU Boulder. In particular:
+This repository contains final project PDFs for various courses I took at CU Boulder and UW Seattle. In particular:
+
+## CU Boulder:
   
 ### APPM 3310: Matrix Methods  
 - We followed in the footsteps of the winners of the Netflix Prize competition and implemented a recommender system which performed better than Netflix's benchmark.  
@@ -19,3 +21,9 @@ This repository contains final project PDFs for various courses I took at CU Bou
 
 ### Undergraduation Senior Thesis
 - Under Dr. Stephen Becker, I learned about the theory of first-order Bayesian Optimization (FOBO) and contributed to the open-source Bayesian Optimization library BoTorch so that FOBO is available to all researchers.
+
+## UW Seattle:
+
+### AMATH 515 A: Optimization: Fundamentals and Applications
+- We study the role of different stochastic gradient descent algorithms and stepsizing schemes on both CNNs and Transformers.
+
