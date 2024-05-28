@@ -27,3 +27,6 @@ This repository contains final project PDFs for various courses I took at CU Bou
 ### AMATH 515 A: Optimization: Fundamentals and Applications
 - We study the role of different stochastic gradient descent algorithms and stepsizing schemes on both CNNs and Transformers.
 
+### CSE 599/542: Reinforcement Learning
+- I attempt to reproduce results in the literature around neural network plasticity and capacity loss by training a CNN and MLP on a changing objective. I obtain a result opposite to what the previous literature has observed.
+
